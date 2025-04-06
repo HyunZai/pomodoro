@@ -12,7 +12,7 @@ class Pomodoro extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        scaffoldBackgroundColor: const Color(0xFFE7626C),
+        scaffoldBackgroundColor: const Color(0xFF15482D),
         textTheme: const TextTheme(
           headlineLarge: TextStyle(color: Color(0xff232B55)),
         ),
