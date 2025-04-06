@@ -11,6 +11,7 @@ class Pomodoro extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      //Theme setting
       theme: ThemeData(
         scaffoldBackgroundColor: const Color(0xFF15482D),
         textTheme: const TextTheme(
